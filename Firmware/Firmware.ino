@@ -35,8 +35,8 @@
 */
 #include "ESP8266.h"
 
-const char *SSID     = "WIFI-SSID";
-const char *PASSWORD = "WIFI-PASWWORD";
+const char *SSID     = "Secured Internet";
+const char *PASSWORD = "Ovnimoon";
 
 SoftwareSerial mySerial(10, 11); //SoftwareSerial pins for MEGA/Uno. For other boards see: https://www.arduino.cc/en/Reference/SoftwareSerial
 
